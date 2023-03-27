@@ -8,3 +8,7 @@
 - [Sway Book](https://fuellabs.github.io/sway/v0.33.1/book/index.html)
 - [Developer Quickstart](https://fuellabs.github.io/fuel-docs/master/developer-quickstart.html)
 - [Fuel Developer Forum](https://forum.fuel.network/)
+
+## More info 
+- [Complete Guide](https://github.com/FuelLabs/awesome-fuel)
+- [Fuel`s Website](https://www.fuel.network/)
