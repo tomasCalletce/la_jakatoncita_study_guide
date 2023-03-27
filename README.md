@@ -1,4 +1,4 @@
-# La Jakatoncita Study Guide
+# #LaJakatoncita Study Guide
 
 En esta hackathon, tendrán la oportunidad de construir sobre Fuel. Para lograrlo, deberán desarrollar contratos inteligentes utilizando el lenguaje Sawy. En esta guía, encontrarán información para prepararse adecuadamente.
 
